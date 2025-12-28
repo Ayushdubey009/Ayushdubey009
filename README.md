@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HELLO+NICE+TO+MEET+YOU%F0%9F%91%8B+!+;I+AM+ASHU+%F0%9F%92%BB;REACT-DEVELOPER;AI+ENTHUSIAST;CLOUD+&+DEVOPS+LEARNER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=#f03c15&center=true&vCenter=true&width=2000&height=200&lines=HELLO+NICE+TO+MEET+YOU%F0%9F%91%8B+!+;I+AM+AYUSH+%F0%9F%92%BB;AIML-DEVELOPER;AI+ENTHUSIAST;CLOUD+&+DEVOPS+LEARNER)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 Frontend Developer passionate about AI, FinTech & scalable web solutions<br>🎓 B.Tech CSE(AI & ML) student at Galgotias University<br>🌱 Learning AWS, Machine Learning, Java Spring Boot & advanced backend architectures<br>👀 Enthusiastic about React, and hackathons<br>💞️ Thrive on collaborations, open-source projects, and solving real-world problems<br>🎵 Fun fact: I remix songs into LOFI / Slowed + Reverb versions on YouTube!<br>📧 Reach me at: dayushkdubey@gmail.com
